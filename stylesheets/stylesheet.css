@@ -261,7 +261,7 @@ Full-Width Styles
   background: -ms-linear-gradient(top, #373737, #212121);
   background: -o-linear-gradient(top, #373737, #212121);
   background: linear-gradient(top, #373737, #212121);
-  background: url('../images/neural.jpg') 20%;
+  background: url('../images/ProgrammingCodeBG.jpg') 20%;
 }
 
 #header_wrap_1project {
@@ -339,6 +339,20 @@ Full-Width Styles
 
 #footer_wrap {
   background: #212121;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left-content {
+    flex: 2;
+}
+
+.right-content {
+    flex: 1;
 }
 
 
