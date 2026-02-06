@@ -1,8 +1,22 @@
-Slate
-=====
-Slate is responsive theme for GitHub Pages. [Fork it](https://github.com/jsncostello/slate/fork_select) and use it on your own site or generate one automatically using [GitHub Pages](http://pages.github.com).
+# My Portfolio
 
-Slate in use:
-![Slate](https://cloud.githubusercontent.com/assets/416727/17308540/72c4b6ce-57ef-11e6-9f68-12f6327edfde.png)
+Welcome to my portfolio! This is a showcase of my skills, projects, and experiences as a computer engineer. 
 
-Slate is available under the MIT license.
+## About
+
+This portfolio is built using GitHub Pages built from a fork of Slate. It serves as a platform for potential employers and collaborators to explore my work and get to know me better.
+
+## Features
+
+- **Responsive Design**: The website is optimized for both desktop and mobile viewing.
+- **Projects Section**: A showcase of my most significant projects with links to their repositories and live demos.
+- **Contact Information**: An easy way for visitors to reach out.
+
+## How to View
+
+You can view my portfolio at: [Pabsalonso.github.io](https://pabsalonso.github.io/myPortfolio/)
+
+## Technologies Used
+
+- HTML
+- CSS
