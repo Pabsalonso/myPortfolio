@@ -20,3 +20,15 @@ You can view my portfolio at: [Pabsalonso.github.io](https://pabsalonso.github.i
 
 - HTML
 - CSS
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For inquiries, please reach out to me at [pa99alonso@gmail.com].
+
+---
+
+Thank you for visiting my portfolio!
